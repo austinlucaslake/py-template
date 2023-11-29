@@ -1,6 +1,6 @@
 [project]
 name = "python-template"
-version = "0.2.4"
+version = "0.1.0"
 authors = [
   { name="Austin Lake", email="austinlake04@gmail.com" },
 ]
@@ -20,4 +20,9 @@ dependencies = [
 Homepage = "https://github.com/austinlucaslake/python-template"
 
 [project.optional-dependencies]
-dev = ["black", "autopep8", "flake8", "flake8-docstrings", "autoflake", "pytest", "pipreqs", "pip-tools"]
+dev = ["ruff", "pylint", "pytest", "pipreqs", "pip-tools", "pre-commit-hooks"]
+
+[tool.ruff]
+select = [
+  "ALL",
+]
