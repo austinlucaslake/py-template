@@ -2,9 +2,13 @@
 
 Template repository for Python projects
 
+---
+
 [![Latest Release][release-badge]][release-url]
 [![License][license-badge]](LICENSE)
 [![CI Status][ci-badge]][ci-url]
+
+---
 
 [release-badge]: https://img.shields.io/github/v/release/austinlucaslake/python-template
 [release-url]: https://github.com/austinlucaslake/python-template/releases/latest
