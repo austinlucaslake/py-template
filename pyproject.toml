@@ -2,22 +2,22 @@
 name = "python-template"
 version = "0.1.0"
 authors = [
-  { name="Austin Lake", email="austinlake04@gmail.com" },
+  { name="Austin Lucas Lake", email="git@austinlucaslake.com" },
 ]
-description = "Template repository for Python projects"
+description = "Template repository for Python projects."
 readme = "README.md"
 license = { file = "LICENSE" }
-requires-python = ">=3.8"
+requires-python = ">=3"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: Apache License 2.0",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/austinlucaslake/python-template"
+Homepage = "https://github.com/austinlucaslake/py-template"
 
 [project.optional-dependencies]
 dev = ["ruff", "pylint", "pytest", "pipreqs", "pip-tools", "pre-commit-hooks"]

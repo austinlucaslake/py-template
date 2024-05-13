@@ -1,4 +1,4 @@
-# python-template
+# py-template
 
 Template repository for Python projects
 
@@ -10,8 +10,8 @@ Template repository for Python projects
 
 ---
 
-[release-badge]: https://img.shields.io/github/v/release/austinlucaslake/python-template
-[release-url]: https://github.com/austinlucaslake/python-template/releases/latest
-[license-badge]: https://img.shields.io/github/license/austinlucaslake/python-template
-[ci-badge]: https://github.com/austinlucaslake/python-template/actions/workflows/ci.yaml/badge.svg
-[ci-url]: https://github.com/austinlucaslake/python-template/actions
+[release-badge]: https://img.shields.io/github/v/release/austinlucaslake/py-template
+[release-url]: https://github.com/austinlucaslake/py-template/releases/latest
+[license-badge]: https://img.shields.io/github/license/austinlucaslake/py-template
+[ci-badge]: https://github.com/austinlucaslake/py-template/actions/workflows/ci.yaml/badge.svg
+[ci-url]: https://github.com/austinlucaslake/py-template/actions
